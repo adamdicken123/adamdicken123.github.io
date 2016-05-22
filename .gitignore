@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+_notebooks/Jupyter-Meets-Jekyll/.idea/Jupyter-Meets-Jekyll.iml
+_notebooks/Jupyter-Meets-Jekyll/.idea/misc.xml
+_notebooks/Jupyter-Meets-Jekyll/.ipynb_checkpoints/Jupyter_meets_Jekyll-checkpoint.ipynb
