@@ -8,6 +8,7 @@
 # Site settings
 title: Adams Ramblings
 email: your-email@domain.com
+description: > #
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -16,3 +17,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+# collections:
+#   notebooks_resources:
+#     output: true
+#     path: /notebooks/:name/
+#     permalink: /notebooks/:name/ # goes to /notebooks/Jupyter-meets-Jekyll/Jupyter_meets_Jekyll/index.html
+#     # permalink: /notebooks/ # goes to /notebooks/index.html
